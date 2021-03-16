@@ -2,6 +2,6 @@
 
 Some description?
 
-##Subheader
+##Sub-header
 
 Watch tutorials on YouTube.
