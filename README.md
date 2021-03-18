@@ -14,3 +14,8 @@ Watch tutorials on YouTube.
 ## Changes To Online GitHub branch
 
 Made these changes online and I'm going to pull them into my local sub-branch.
+
+## Undoing Changes made by add . and commit -m ""
+
+1. Changes made
+2. Having fun
